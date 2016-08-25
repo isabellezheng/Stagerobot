@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/catkin_ws/devel
+
+Name: stereo_image_proc
+Description: Description of stereo_image_proc
+Version: 1.12.19
+Cflags: -I/home/firefly/projet/catkin_ws/devel/include -I/home/firefly/projet/catkin_ws/src/image_pipeline/stereo_image_proc/include
+Libs: -L/home/firefly/projet/catkin_ws/devel/lib -lstereo_image_proc
+Requires: image_geometry image_proc sensor_msgs stereo_msgs

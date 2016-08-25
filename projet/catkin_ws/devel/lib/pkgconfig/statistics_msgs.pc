@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/catkin_ws/devel
+
+Name: statistics_msgs
+Description: Description of statistics_msgs
+Version: 0.12.1
+Cflags: -I/home/firefly/projet/catkin_ws/devel/include
+Libs: -L/home/firefly/projet/catkin_ws/devel/lib 
+Requires: message_runtime

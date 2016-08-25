@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/catkin_ws/install
+
+Name: rosserial_python
+Description: Description of rosserial_python
+Version: 0.7.2
+Cflags: 
+Libs: -L/home/firefly/projet/catkin_ws/install/lib 
+Requires: 

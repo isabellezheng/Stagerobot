@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/catkin_ws/install
+
+Name: image_publisher
+Description: Description of image_publisher
+Version: 1.12.19
+Cflags: -I/home/firefly/projet/catkin_ws/install/include
+Libs: -L/home/firefly/projet/catkin_ws/install/lib 
+Requires: 

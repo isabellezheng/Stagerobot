@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/catkin_ws/install
+
+Name: rbx1_bringup
+Description: Description of rbx1_bringup
+Version: 0.4.0
+Cflags: 
+Libs: -L/home/firefly/projet/catkin_ws/install/lib 
+Requires: 

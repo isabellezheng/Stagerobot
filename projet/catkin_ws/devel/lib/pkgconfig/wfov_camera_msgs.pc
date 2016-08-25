@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/catkin_ws/devel
+
+Name: wfov_camera_msgs
+Description: Description of wfov_camera_msgs
+Version: 0.12.1
+Cflags: -I/home/firefly/projet/catkin_ws/devel/include
+Libs: -L/home/firefly/projet/catkin_ws/devel/lib 
+Requires: sensor_msgs message_runtime

@@ -1,0 +1,2 @@
+aruco_ros/aruco:aruco_ros/aruco_msgs:aruco_ros/aruco_ros:roblip6
+-DCATKIN_DEVEL_PREFIX=/home/firefly/projet/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/firefly/projet/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/catkin_ws/devel
+
+Name: aruco
+Description: Description of aruco
+Version: 0.0.1
+Cflags: -I/home/firefly/projet/catkin_ws/src/aruco_ros/aruco/include
+Libs: -L/home/firefly/projet/catkin_ws/devel/lib -laruco
+Requires: 

@@ -1,0 +1,13 @@
+/home/firefly/projet/aruco-2.0.7/build/src/CMakeFiles/aruco.dir
+/home/firefly/projet/aruco-2.0.7/build/utils_calibration/CMakeFiles/aruco_calibration.dir
+/home/firefly/projet/aruco-2.0.7/build/utils_calibration/CMakeFiles/aruco_calibration_fromimages.dir
+/home/firefly/projet/aruco-2.0.7/build/utils_markermap/CMakeFiles/aruco_create_markermap.dir
+/home/firefly/projet/aruco-2.0.7/build/utils_markermap/CMakeFiles/aruco_markermap_pix2meters.dir
+/home/firefly/projet/aruco-2.0.7/build/utils/CMakeFiles/aruco_print_dictionary.dir
+/home/firefly/projet/aruco-2.0.7/build/utils/CMakeFiles/aruco_print_marker.dir
+/home/firefly/projet/aruco-2.0.7/build/utils/CMakeFiles/aruco_simple.dir
+/home/firefly/projet/aruco-2.0.7/build/utils_markermap/CMakeFiles/aruco_simple_markermap.dir
+/home/firefly/projet/aruco-2.0.7/build/utils/CMakeFiles/aruco_test.dir
+/home/firefly/projet/aruco-2.0.7/build/utils_markermap/CMakeFiles/aruco_test_markermap.dir
+/home/firefly/projet/aruco-2.0.7/build/utils/CMakeFiles/aruco_tracker.dir
+/home/firefly/projet/aruco-2.0.7/build/CMakeFiles/uninstall.dir
