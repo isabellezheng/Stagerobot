@@ -139,17 +139,23 @@ include
 ## Declare a C++ executable
 add_executable(cam_moteurs_node src/cam_moteurs.cpp)
 add_executable(proximite_moteurs_node src/proximite_moteurs.cpp)
+add_executable(cam_node src/cam.cpp)
 ## Add cmake target dependencies of the executable
 ## same as for the library above
 add_dependencies(cam_moteurs_node roblip6_generate_messages_cpp)
 add_dependencies(proximite_moteurs_node roblip6_generate_messages_cpp)
+add_dependencies(cam_node roblip6_generate_messages_cpp)
 
 ## Specify libraries to link a library or executable target against
  target_link_libraries(cam_moteurs_node
    ${catkin_LIBRARIES}
  )
 
- target_link_libraries(proximte_moteurs_node
+ target_link_libraries(proximite_moteurs_node
+   ${catkin_LIBRARIES}
+ )
+
+target_link_libraries(cam_node
    ${catkin_LIBRARIES}
  )
 

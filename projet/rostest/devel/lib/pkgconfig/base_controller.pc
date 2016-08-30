@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/rostest/devel
+
+Name: base_controller
+Description: Description of base_controller
+Version: 0.0.1
+Cflags: -I/home/firefly/projet/rostest/devel/include
+Libs: -L/home/firefly/projet/rostest/devel/lib 
+Requires: message_runtime

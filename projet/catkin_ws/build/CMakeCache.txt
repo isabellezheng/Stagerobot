@@ -529,6 +529,9 @@ cv_bridge_DIR:PATH=/opt/ros/indigo/share/cv_bridge/cmake
 //Value Computed by CMake
 depth_image_proc_BINARY_DIR:STATIC=/home/firefly/projet/catkin_ws/build/image_pipeline/depth_image_proc
 
+//The directory containing a CMake configuration file for depth_image_proc.
+depth_image_proc_DIR:PATH=/home/firefly/projet/catkin_ws/devel/share/depth_image_proc/cmake
+
 //Dependencies for the target
 depth_image_proc_LIB_DEPENDS:STATIC=general;/opt/ros/indigo/lib/libcv_bridge.so;general;/opt/ros/indigo/lib/libeigen_conversions.so;general;/opt/ros/indigo/lib/liborocos-kdl.so.1.3.0;general;/opt/ros/indigo/lib/libimage_geometry.so;general;/usr/lib/arm-linux-gnueabihf/libopencv_videostab.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_video.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_superres.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_stitching.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_photo.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_ocl.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_objdetect.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_ml.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_legacy.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_imgproc.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_highgui.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_gpu.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_flann.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_features2d.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_core.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_contrib.so.2.4.8;general;/usr/lib/arm-linux-gnueabihf/libopencv_calib3d.so.2.4.8;general;/opt/ros/indigo/lib/libimage_transport.so;general;/opt/ros/indigo/lib/libnodeletlib.so;general;/opt/ros/indigo/lib/libbondcpp.so;general;/usr/lib/arm-linux-gnueabihf/libuuid.so;general;/usr/lib/arm-linux-gnueabihf/libtinyxml.so;general;/opt/ros/indigo/lib/libclass_loader.so;general;/usr/lib/libPocoFoundation.so;general;/usr/lib/arm-linux-gnueabihf/libdl.so;general;/opt/ros/indigo/lib/libroslib.so;general;/opt/ros/indigo/lib/libtf2_ros.so;general;/opt/ros/indigo/lib/libactionlib.so;general;/opt/ros/indigo/lib/libmessage_filters.so;general;/opt/ros/indigo/lib/libroscpp.so;general;/usr/lib/arm-linux-gnueabihf/libboost_signals.so;general;/usr/lib/arm-linux-gnueabihf/libboost_filesystem.so;general;/opt/ros/indigo/lib/librosconsole.so;general;/opt/ros/indigo/lib/librosconsole_log4cxx.so;general;/opt/ros/indigo/lib/librosconsole_backend_interface.so;general;/usr/lib/liblog4cxx.so;general;/usr/lib/arm-linux-gnueabihf/libboost_regex.so;general;/opt/ros/indigo/lib/libxmlrpcpp.so;general;/opt/ros/indigo/lib/libtf2.so;general;/opt/ros/indigo/lib/libroscpp_serialization.so;general;/opt/ros/indigo/lib/librostime.so;general;/usr/lib/arm-linux-gnueabihf/libboost_date_time.so;general;/opt/ros/indigo/lib/libcpp_common.so;general;/usr/lib/arm-linux-gnueabihf/libboost_system.so;general;/usr/lib/arm-linux-gnueabihf/libboost_thread.so;general;/usr/lib/arm-linux-gnueabihf/libpthread.so;general;/usr/lib/arm-linux-gnueabihf/libconsole_bridge.so;general;opencv_videostab;general;opencv_video;general;opencv_superres;general;opencv_stitching;general;opencv_photo;general;opencv_ocl;general;opencv_objdetect;general;opencv_ml;general;opencv_legacy;general;opencv_imgproc;general;opencv_highgui;general;opencv_gpu;general;opencv_flann;general;opencv_features2d;general;opencv_core;general;opencv_contrib;general;opencv_calib3d;
 
@@ -930,6 +933,39 @@ tf_DIR:PATH=/opt/ros/indigo/share/tf/cmake
 topic_tools_DIR:PATH=/opt/ros/indigo/share/topic_tools/cmake
 
 //Value Computed by CMake
+turtlebot_actions_BINARY_DIR:STATIC=/home/firefly/projet/catkin_ws/build/turtlebot_apps/turtlebot_actions
+
+//Value Computed by CMake
+turtlebot_actions_SOURCE_DIR:STATIC=/home/firefly/projet/catkin_ws/src/turtlebot_apps/turtlebot_actions
+
+//Value Computed by CMake
+turtlebot_apps_BINARY_DIR:STATIC=/home/firefly/projet/catkin_ws/build/turtlebot_apps/turtlebot_apps
+
+//Value Computed by CMake
+turtlebot_apps_SOURCE_DIR:STATIC=/home/firefly/projet/catkin_ws/src/turtlebot_apps/turtlebot_apps
+
+//Value Computed by CMake
+turtlebot_calibration_BINARY_DIR:STATIC=/home/firefly/projet/catkin_ws/build/turtlebot_apps/turtlebot_calibration
+
+//Value Computed by CMake
+turtlebot_calibration_SOURCE_DIR:STATIC=/home/firefly/projet/catkin_ws/src/turtlebot_apps/turtlebot_calibration
+
+//Value Computed by CMake
+turtlebot_follower_BINARY_DIR:STATIC=/home/firefly/projet/catkin_ws/build/turtlebot_apps/turtlebot_follower
+
+//Value Computed by CMake
+turtlebot_follower_SOURCE_DIR:STATIC=/home/firefly/projet/catkin_ws/src/turtlebot_apps/turtlebot_follower
+
+//The directory containing a CMake configuration file for turtlebot_msgs.
+turtlebot_msgs_DIR:PATH=/opt/ros/indigo/share/turtlebot_msgs/cmake
+
+//Value Computed by CMake
+turtlebot_rapps_BINARY_DIR:STATIC=/home/firefly/projet/catkin_ws/build/turtlebot_apps/turtlebot_rapps
+
+//Value Computed by CMake
+turtlebot_rapps_SOURCE_DIR:STATIC=/home/firefly/projet/catkin_ws/src/turtlebot_apps/turtlebot_rapps
+
+//Value Computed by CMake
 usb_cam_BINARY_DIR:STATIC=/home/firefly/projet/catkin_ws/build/usb_cam
 
 //Dependencies for the target
@@ -943,6 +979,9 @@ uvc_camera_BINARY_DIR:STATIC=/home/firefly/projet/catkin_ws/build/camera_umd/uvc
 
 //Value Computed by CMake
 uvc_camera_SOURCE_DIR:STATIC=/home/firefly/projet/catkin_ws/src/camera_umd/uvc_camera
+
+//The directory containing a CMake configuration file for visualization_msgs.
+visualization_msgs_DIR:PATH=/opt/ros/indigo/share/visualization_msgs/cmake
 
 //Value Computed by CMake
 wfov_camera_msgs_BINARY_DIR:STATIC=/home/firefly/projet/catkin_ws/build/pointgrey_camera_driver/wfov_camera_msgs

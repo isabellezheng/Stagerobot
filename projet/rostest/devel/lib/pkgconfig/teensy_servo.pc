@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/rostest/devel
+
+Name: teensy_servo
+Description: Description of teensy_servo
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/firefly/projet/rostest/devel/lib 
+Requires: 

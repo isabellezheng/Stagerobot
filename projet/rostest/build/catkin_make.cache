@@ -1,0 +1,2 @@
+rmc_software/ar_sys:rmc_software/base_controller:rmc_software/navigation/maskor_navigation/sbpl:rmc_software/navigation/maskor_navigation/sbpl_lattice_planner:rmc_software/navigation/pose_follower:rmc_software/rmc_2dnav:rmc_software/rmc_config:rmc_software/robot_setup_tf:rmc_software/state_machine:rmc_software/teensy_servo:rmc_software/vision
+-DCATKIN_DEVEL_PREFIX=/home/firefly/projet/rostest/devel -DCMAKE_INSTALL_PREFIX=/home/firefly/projet/rostest/install -G Unix Makefiles

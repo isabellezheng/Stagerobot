@@ -66,6 +66,13 @@
 /home/firefly/projet/catkin_ws/install/share/aruco_ros/etc/reem_gazebo_floating_marker_world.png
 /home/firefly/projet/catkin_ws/install/share/aruco_ros/etc/reem_gazebo_floating_marker.png
 /home/firefly/projet/catkin_ws/install/share/aruco_ros/etc/marker582_5cm.jpg
+/home/firefly/projet/catkin_ws/install/share/aruco_ros/launch/cam.launch
 /home/firefly/projet/catkin_ws/install/share/aruco_ros/launch/double.launch
+/home/firefly/projet/catkin_ws/install/share/aruco_ros/launch/double.launch~
+/home/firefly/projet/catkin_ws/install/share/aruco_ros/launch/single.launch~
 /home/firefly/projet/catkin_ws/install/share/aruco_ros/launch/single.launch
 /home/firefly/projet/catkin_ws/install/share/aruco_ros/launch/marker_publisher.launch
+/home/firefly/projet/catkin_ws/install/lib/pkgconfig/roblip6.pc
+/home/firefly/projet/catkin_ws/install/share/roblip6/cmake/roblip6Config.cmake
+/home/firefly/projet/catkin_ws/install/share/roblip6/cmake/roblip6Config-version.cmake
+/home/firefly/projet/catkin_ws/install/share/roblip6/package.xml

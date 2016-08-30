@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/rostest/devel
+
+Name: state_machine
+Description: Description of state_machine
+Version: 0.0.1
+Cflags: -I/home/firefly/projet/rostest/src/rmc_software/state_machine/include
+Libs: -L/home/firefly/projet/rostest/devel/lib 
+Requires: actionlib geometry_msgs move_base_msgs roscpp tf

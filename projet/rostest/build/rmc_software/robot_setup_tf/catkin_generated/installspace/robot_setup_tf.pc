@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/rostest/install
+
+Name: robot_setup_tf
+Description: Description of robot_setup_tf
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/firefly/projet/rostest/install/lib 
+Requires: geometry_msgs roscpp tf

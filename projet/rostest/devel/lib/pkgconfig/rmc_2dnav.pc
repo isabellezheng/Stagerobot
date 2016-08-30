@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/rostest/devel
+
+Name: rmc_2dnav
+Description: Description of rmc_2dnav
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/firefly/projet/rostest/devel/lib 
+Requires: 

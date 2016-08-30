@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/rostest/install
+
+Name: vision
+Description: Description of vision
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/firefly/projet/rostest/install/lib 
+Requires: 

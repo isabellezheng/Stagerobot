@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/catkin_ws/devel
+
+Name: turtlebot_calibration
+Description: Description of turtlebot_calibration
+Version: 2.3.6
+Cflags: -I/home/firefly/projet/catkin_ws/devel/include
+Libs: -L/home/firefly/projet/catkin_ws/devel/lib 
+Requires: std_msgs message_runtime

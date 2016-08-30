@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/rostest/devel
+
+Name: ar_sys
+Description: Description of ar_sys
+Version: 1.0.5
+Cflags: -I/home/firefly/projet/rostest/src/rmc_software/ar_sys/include
+Libs: -L/home/firefly/projet/rostest/devel/lib -laruco
+Requires: cv_bridge dynamic_reconfigure geometry_msgs image_transport visualization_msgs roscpp tf

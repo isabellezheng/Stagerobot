@@ -66,6 +66,7 @@ roblip6/CMakeFiles/cam_moteurs_node.dir/src/cam_moteurs.cpp.o: /opt/ros/indigo/i
 roblip6/CMakeFiles/cam_moteurs_node.dir/src/cam_moteurs.cpp.o: /opt/ros/indigo/include/ros/wall_timer_options.h
 roblip6/CMakeFiles/cam_moteurs_node.dir/src/cam_moteurs.cpp.o: /opt/ros/indigo/include/rosconsole/macros_generated.h
 roblip6/CMakeFiles/cam_moteurs_node.dir/src/cam_moteurs.cpp.o: /opt/ros/indigo/include/sensor_msgs/Range.h
+roblip6/CMakeFiles/cam_moteurs_node.dir/src/cam_moteurs.cpp.o: /opt/ros/indigo/include/std_msgs/Bool.h
 roblip6/CMakeFiles/cam_moteurs_node.dir/src/cam_moteurs.cpp.o: /opt/ros/indigo/include/std_msgs/Header.h
 roblip6/CMakeFiles/cam_moteurs_node.dir/src/cam_moteurs.cpp.o: /opt/ros/indigo/include/std_msgs/Int16.h
 roblip6/CMakeFiles/cam_moteurs_node.dir/src/cam_moteurs.cpp.o: /opt/ros/indigo/include/std_msgs/Int16MultiArray.h

@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/rostest/install
+
+Name: state_machine
+Description: Description of state_machine
+Version: 0.0.1
+Cflags: -I/home/firefly/projet/rostest/install/include
+Libs: -L/home/firefly/projet/rostest/install/lib 
+Requires: actionlib geometry_msgs move_base_msgs roscpp tf

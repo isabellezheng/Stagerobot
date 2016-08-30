@@ -7,10 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/firefly/projet/catkin_ws/devel:$CMAKE_PREFIX_PATH"
-export CPATH="/home/firefly/projet/catkin_ws/devel/include:$CPATH"
-export LD_LIBRARY_PATH="/home/firefly/projet/catkin_ws/devel/lib:$LD_LIBRARY_PATH"
-export PKG_CONFIG_PATH="/home/firefly/projet/catkin_ws/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/firefly/projet/catkin_ws/build"
-export PYTHONPATH="/home/firefly/projet/catkin_ws/devel/lib/python2.7/dist-packages:$PYTHONPATH"
-export ROS_PACKAGE_PATH="/home/firefly/projet/catkin_ws/src:$ROS_PACKAGE_PATH"

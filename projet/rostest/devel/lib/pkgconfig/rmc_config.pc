@@ -1,0 +1,8 @@
+prefix=/home/firefly/projet/rostest/devel
+
+Name: rmc_config
+Description: Description of rmc_config
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/firefly/projet/rostest/devel/lib 
+Requires: 
